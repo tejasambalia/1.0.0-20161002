@@ -1,0 +1,11 @@
+version 1.0.0
+Login 
+Store data in to database
+authentication data
+create session
+=====================================================
+version 1.0.1
+Updates
+Mail verification
+After mail verification user can log into the system
+If login than upload the data 

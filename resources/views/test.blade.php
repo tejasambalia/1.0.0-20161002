@@ -1,0 +1,1 @@
+{!! $description['photo_description'] !!}
